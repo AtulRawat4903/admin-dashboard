@@ -16,6 +16,7 @@ A responsive admin dashboard built as part of The Odin Project.
 - Trending section
 - Responsive layout
 - Hover animations
+- Transitions
 
 ## Built With
 
